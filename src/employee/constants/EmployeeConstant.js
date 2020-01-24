@@ -1,0 +1,14 @@
+export const fetchDataEmployee = {type: 'FETCH_DATA_EMPLOYEE_SUCCESS'};
+export const successUrlPhoto = {type: 'SUCCESS_URL_PHOTO'};
+export const successFirstName = {type: 'SUCCESS_FIRST_NAME'};
+export const successLastName = {type: 'SUCCESS_LAST_NAME'};
+export const successAge = {type: 'SUCCESS_AGE'};
+export const successUpdateUrlPhoto = {type: 'SUCCESS_UPDATE_URL_PHOTO'};
+export const successUpdateFirstName = {type: 'SUCCESS_UPDATE_FIRST_NAME'};
+export const successUpdateLastName = {type: 'SUCCESS_UPDATE_LAST_NAME'};
+export const successPaginationSize = {type: 'SUCCESS_PAGINATION_SIZE'};
+export const successPaginationPosition = {type: 'SUCCESS_PAGINATION_POSITION'};
+export const successPaginationData = {type: 'SUCCESS_PAGINATION_DATA'};
+export const successUpdateAge = {type: 'SUCCESS_UPDATE_AGE'};
+export const resetState = {type: 'SUCCESS_RESET_STATE'};
+export const DataEmployeeById = {type: 'FETCH_DATA_EMPLOYEE_BY_ID_SUCCESS'};

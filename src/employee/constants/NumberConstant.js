@@ -1,0 +1,10 @@
+export const numberZero = 0;
+export const numberOne = 1;
+export const numberTwo = 2;
+export const numberThree = 3;
+export const numberFour = 4;
+export const numberFive = 5;
+export const numberSix= 6;
+export const numberSeven = 7;
+export const numberEight = 8;
+export const numberNine = 9;
