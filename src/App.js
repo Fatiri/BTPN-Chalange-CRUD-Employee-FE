@@ -1,8 +1,8 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.scss';
-import NavBar from "./employee/components/NavBar";
-import Footer from "./employee/components/Footer";
+import NavBar from "./components/NavBar";
+import Footer from "./components/Footer";
 import Table from "./employee/layout/TableEmployee";
 import {Route, BrowserRouter as Router, Switch} from "react-router-dom";
 import {Provider} from "react-redux";
@@ -10,7 +10,7 @@ import {employeeReducer} from "./employee/reducers/EmployeeReducer";
 import {createStore} from "redux";
 import Card from "./employee/layout/CardEmployee";
 import FormInput from "./employee/layout/FormInput";
-import LandingPage from "./employee/components/LandingPage";
+import LandingPage from "./components/LandingPage";
 
 function App() {
     return (
