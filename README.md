@@ -3,7 +3,7 @@ genius employee is an application to process genius worker contact data such as 
 
 This application was created to meet the work test of a Bank Tabungan Pensiunan Nasional.
 ## Demo App
-[ http://btpn-employee-fatiri.herokuapp.com ]
+[ http://btpn-employe-fatiri.herokuapp.com ]
 
 ## Available Scripts
 
